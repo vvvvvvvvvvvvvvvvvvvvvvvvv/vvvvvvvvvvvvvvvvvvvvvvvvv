@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Abubakar Musanipov
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on android development
+- 👋 Hi, I’m Ruslan Musanipov
 - 📫 How to reach me https://t.me/AndroidDevvv
 
 <!---
